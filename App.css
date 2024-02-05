@@ -1,0 +1,12 @@
+.App {
+  text-align:center;
+  height:400px;
+  width:400px;
+  position:relative;
+  left:550px;
+  top:100px;
+  border-radius:20px;
+  background-color: aqua;
+  font-weight: bold;
+}
+
